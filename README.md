@@ -1,4 +1,4 @@
-## Renata
+## Olá, eu sou a Renata, mas pode me chamar de Rê 🤭
 
 I began my career as a quality intern, but my passion for technology guided me towards the IT field. During this transition, I was involved from the ground up in the creation of end-to-end hospital management indicators. My contribution spanned from requirements gathering to building intelligent visuals, utilizing skills in ETL and data modeling.
 
